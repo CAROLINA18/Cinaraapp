@@ -1,0 +1,9 @@
+Insertar.php
+Contiene el codigo para insertar datos en la base de datos.
+
+Email.php
+Contiene el codigo donde se hayan el cuerpo del mail a enviar y los correos de los destinatarios , 
+ademas genera el turno.
+
+Conexion.php
+contiene el codigo para conectar la base de datos con la pagina web
